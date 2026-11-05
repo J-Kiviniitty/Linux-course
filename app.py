@@ -70,7 +70,9 @@ def home():
     <h2>Source Code</h2>
 
     <p>
-    GitHub repository link will be added here.
+   <a href="https://github.com/J-Kiviniitty/Linux-course">
+   GitHub Repository
+   </a>
     </p>
     """
 
