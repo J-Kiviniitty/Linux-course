@@ -1,0 +1,1 @@
+0 * * * * /home/ubuntu/week4/backup_www.sh
